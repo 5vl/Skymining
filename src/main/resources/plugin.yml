@@ -1,0 +1,15 @@
+name: SkyMines
+version: '${project.version}'
+main: com.fivevl.skymines.Main
+api-version: 1.17
+authors: [ 5vl ]
+description: Skymines plugin made by 5vl.
+commands:
+  resetmine:
+    description: Reset a mine.
+  spawn:
+    description: Go to spawn.
+  compressor:
+    description: Get compressor.
+  scroll:
+    description: Get a scroll.
